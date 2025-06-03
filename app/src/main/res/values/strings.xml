@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">expenses tracker app</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_transaction_screen">TransactionScreen</string>
+    <string name="title_activity_budget_screen">BudgetScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+</resources>
