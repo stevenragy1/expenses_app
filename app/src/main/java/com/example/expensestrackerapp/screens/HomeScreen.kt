@@ -70,7 +70,7 @@ val iconSizeXLarge = 48.dp
 @Composable
 fun HomeScreenPage() {
     Scaffold(
-        containerColor = Color(0xFF101323),
+        containerColor = DarkBlue,
         contentColor = Color.White,
         topBar = {
             CenterAlignedTopAppBar(
